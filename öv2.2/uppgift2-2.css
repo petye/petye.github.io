@@ -1,0 +1,47 @@
+div {
+    background-color: #90EE90; 
+    height: 1.5em;
+    width: 410px; 
+}
+table {
+    border: solid 2px #A9A9A9;
+    background-color: #ECF6CE;
+}
+th {
+    border: dashed 2px #8A4B08;
+    background-color: #F5DA81;
+    padding-top: 10px;
+    padding-right: 10px;
+}
+td {
+    border: dotted 2px #A9A9A9;
+    padding: 4px;
+}
+#etta {
+    background-color: #FFD700;
+    text-align: center;
+}
+#tvåa {
+    background-color: #C0C0C0;
+    text-align: center;
+}
+#trea {
+    background-color: #B18904;
+    text-align: center;
+}
+#fyra {
+    text-align: center;
+}
+.rightalign {
+    text-align: right;
+}
+.rightpad {
+    padding-right: 22px;
+}
+h2 {
+  margin-top: 0.5px;  
+}
+#placering {
+    padding-right: 10px;
+    padding-left: 5px;
+}
